@@ -12,6 +12,7 @@ def ler_arquivo():
         with open(arquivo, "r", encoding="utf-8") as f:
             conteudo = f.read()
             print("--- Conteúdo do Arquivo ---\n")
+            print("---------------------------")
             print(conteudo)
             print("---------------------------")
 

@@ -1,4 +1,4 @@
-from modulos import chamar_menu_principal
+from menu_cliente import chamar_menu_principal
 
 def main():
     print('Atividade 01 de permanencia de dados\n')

@@ -1,4 +1,4 @@
-# atividade_permanencia_dados_01
+# Atividade de Permanencia de Dados.
 
 Projeto inicial:
     Este projeto trata-se de uma atividade proposta onde eu criaria o arquivo "input_data.py" e nele faria a programação necessária para receber dados input do terminal (simulando um usuário), depois armazenar esses dados em um arquivo.txt (para permanência desses dados obtidos) e então criar um arquivo read.py que receberia a programação necessária para ler este arquivo.

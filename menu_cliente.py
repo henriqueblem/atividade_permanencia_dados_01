@@ -21,9 +21,12 @@ def menu_principal():
         elif escolha == '2':
             chamar_leitor()
         elif escolha == '3':
-            print('Opção escolhida: Encerrando progrma')
+            print('Encerrando progrma')
             break
         else:
             print('Opção inválida. Tente novamente\n')
+
+def chamar_menu_principal():
+    return menu_principal
 
 menu_principal()
