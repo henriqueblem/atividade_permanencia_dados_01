@@ -1,9 +1,9 @@
 from menu_cliente import chamar_menu_principal
 
 def main():
-    print('Atividade 01 de permanencia de dados\n')
-    print('Programa iniciado...\n')
+    print('\nAtividade 01 de permanencia de dados')
     chamar_menu_principal()
+    print('Programa Encerrado...\n')
 
 if __name__ == "__main__":
     main()

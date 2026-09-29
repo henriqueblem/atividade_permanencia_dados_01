@@ -14,7 +14,7 @@ def exibir_menu():
 def menu_principal():
     while True:
         exibir_menu()
-        escolha = input('Escolha a oprção desejada: ')
+        escolha = input('Escolha a opção desejada: ')
         
         if escolha == '1':
             chamar_cadastrar_cliente()
